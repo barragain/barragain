@@ -1,19 +1,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Mati Barragan. Marketer in Taipei. Ten years selling other people's ideas, now I build my own." src="assets/banner-light.png" width="100%">
+  <img alt="Mati Barragan. Marketer in Taipei. Ten years writing ads. Now I ship my own products." src="assets/banner-light.png" width="100%">
 </picture>
 
 <br>
 
-I'm Mati, a marketer who can't stop making things. I spent over ten years as a creative director and copywriter at agencies like Publicis and McCann, on campaigns for brands such as Coca-Cola and Samsung across South America and Asia.
+I'm Mati, a marketer who can't stop making things. I spent over ten years as a creative director and copywriter at Publicis and McCann, on campaigns for Coca-Cola and Samsung across South America and Asia.
 
-Today I work on brand and content strategy for events and companies like Mirage Festival, and I build my own products on the side. Knowing why people pick one thing over another turns out to be useful when you make the thing. I also wrote a book, *The Waterfall Hijack*, on how brands hijack culture.
+Today I do brand and content strategy for clients like Mirage Festival, and I build software on the side. Ads taught me to find the one thing that stops someone from saying yes. My tools are built the same way: each one removes a wall, like a signup or an upload. I also wrote a book, *The Waterfall Hijack*, on how brands hijack culture.
 
 <br>
 
 ## <img src="assets/icons/bstack.svg" width="22" align="top"> bstack
 
-**[bstack.cc](https://bstack.cc)** is my suite of small browser tools. Open the page and start working: no signup, and your files stay in your browser. An account is optional and only adds sync.
+**[bstack.cc](https://bstack.cc)** is my suite of small browser tools. Type the address and the tool is ready, with no signup. A free account keeps your work on every device.
 
 <a href="https://bstack.cc"><img src="assets/hub.gif" alt="The bstack home page with every tool" width="100%"></a>
 
@@ -57,7 +57,7 @@ Today I work on brand and content strategy for events and companies like Mirage 
 
 ## El Mercado
 
-**[elmercado.com.py](https://elmercado.com.py)** is a free prediction game for Paraguay. You call what happens next with play coins, and the monthly top ten win real prizes.
+**[elmercado.com.py](https://elmercado.com.py)** is a free prediction game for Paraguay. You predict football and politics with play coins, and each month the top ten win real prizes.
 
 <a href="https://elmercado.com.py"><img src="assets/elmercado.gif" alt="El Mercado demo" width="100%"></a>
 
