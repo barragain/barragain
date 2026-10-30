@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Mati Barragan. Marketer in Taipei. Ten years writing ads. Now I ship my own products." src="assets/banner-light.png" width="100%">
+  <img alt="Mati Barragan. Marketer in Taipei. Wrote ads for Coca-Cola. Now I'm building a PDF compressor." src="assets/banner-light.png" width="100%">
 </picture>
 
 <br>
 
-I'm Mati, a marketer who can't stop making things. I spent over ten years as a creative director and copywriter at Publicis and McCann, on campaigns for Coca-Cola and Samsung across South America and Asia.
+I'm Mati, a marketer who can't stop making things. I spent over ten years as a creative director and copywriter at Publicis and McCann, on campaigns for Samsung and Nestlé across South America and Asia.
 
-Today I do brand and content strategy for clients like Mirage Festival, and I build software on the side. Ads taught me to find the one thing that stops someone from saying yes. My tools are built the same way: each one removes a wall, like a signup or an upload. I also wrote a book, *The Waterfall Hijack*, on how brands hijack culture.
+Today I do brand and content strategy for clients like Mirage Festival, and I build software on the side. My book, *The Waterfall Hijack*, is about how brands hijack culture. In my free time I put on events like House of Fuego.
 
 <br>
 
