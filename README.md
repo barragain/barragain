@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Mati Barragan. Marketer. From selling other people's ideas to building my own." src="assets/banner-light.png" width="100%">
+  <img alt="Mati Barragan. Creative &amp; Marketer. From selling other people's ideas to building my own." src="assets/banner-light.png" width="100%">
 </picture>
 
 <br>
